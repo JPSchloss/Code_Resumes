@@ -70,3 +70,7 @@ E-mail: REDACTED || Phone: REDACTED
 # Python Resume Example
 ![Python Resume](https://github.com/JPSchloss/Code_Resumes/blob/1184cdc31468d7b0f20a231b405a995718619005/Python%20Example.png)
 
+----
+# Bash Resume Example
+![Bash Resume](https://github.com/JPSchloss/Code_Resumes/blob/203b139df3b91ee856ca87e9ebb45348f9c3347e/Bash%20Example.png)
+

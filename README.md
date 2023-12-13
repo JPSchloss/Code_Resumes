@@ -1,7 +1,7 @@
 # Code_Resumes
 Here is a collection of resumes built using code. There are a few options here including Python, R, Markdown, HTML, and Bash. Please take a look if interested! 
 
-# Markdown Resume As Example
+# Markdown Resume Example
 ----
 
 # Jonathan Schlosser 
@@ -60,4 +60,9 @@ His data skillsets lie in the realms of Natural Language Processing, Machine Lea
 
 ### AUTHOR
 E-mail: REDACTED || Phone: REDACTED 
+
+
+# HTML Resume Example
+----
+![HTML Resume](image link)
 

@@ -64,5 +64,5 @@ E-mail: REDACTED || Phone: REDACTED
 
 # HTML Resume Example
 ----
-![HTML Resume](image link)
+![HTML Resume](https://github.com/JPSchloss/Code_Resumes/blob/a274f7ad7cbc1349bfb0ca3f05a277fb390a9c24/HTML%20Example.png)
 
